@@ -12,6 +12,7 @@
 		216D32822050437D007A4773 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 216D32802050437D007A4773 /* Main.storyboard */; };
 		216D32842050437D007A4773 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 216D32832050437D007A4773 /* Assets.xcassets */; };
 		216D32872050437D007A4773 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 216D32852050437D007A4773 /* LaunchScreen.storyboard */; };
+		216D329120506373007A4773 /* userlab-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 216D329020506373007A4773 /* userlab-logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		216D32832050437D007A4773 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		216D32862050437D007A4773 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		216D32882050437D007A4773 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		216D329020506373007A4773 /* userlab-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "userlab-logo.png"; path = "../../../../../Users/csanchez/Downloads/userlab-logo.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		216D327B2050437D007A4773 /* randomizeText */ = {
 			isa = PBXGroup;
 			children = (
+				216D329020506373007A4773 /* userlab-logo.png */,
 				216D327C2050437D007A4773 /* AppDelegate.swift */,
 				216D327E2050437D007A4773 /* ViewController.swift */,
 				216D32802050437D007A4773 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				216D32872050437D007A4773 /* LaunchScreen.storyboard in Resources */,
+				216D329120506373007A4773 /* userlab-logo.png in Resources */,
 				216D32842050437D007A4773 /* Assets.xcassets in Resources */,
 				216D32822050437D007A4773 /* Main.storyboard in Resources */,
 			);
